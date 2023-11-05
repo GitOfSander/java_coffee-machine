@@ -71,6 +71,6 @@ exit
 </pre>
 
 # Usage
-Download the release and go in your terminal where you placed coffee_machine.jar and run:
+Download the release and go in your terminal where you placed java_coffee-machine.jar and run:
 
 <pre>java -jar java_coffee-machine.jar</pre>
